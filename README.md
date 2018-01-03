@@ -21,5 +21,6 @@ AI Runtime for real-time training and serving
 
 
 ### ETC
-https://events.static.linuxfound.org/sites/events/files/slides/ambari_apache_big_data_miami_2017.pdf
-
+* https://events.static.linuxfound.org/sites/events/files/slides/ambari_apache_big_data_miami_2017.pdf
+* https://github.com/hortonworks-gallery/ambari-blueprints-view
+* https://community.hortonworks.com/articles/47170/automate-hdp-installation-using-ambari-blueprints.html
